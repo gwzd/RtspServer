@@ -1,0 +1,47 @@
+; HKPlay.def : 声明 DLL 的模块参数。
+
+LIBRARY
+
+EXPORTS
+    ; 此处可以是显式导出
+		ISYS_GetLastError				@1
+		ISYS_GetInvalidHandleValue		@2
+		ISYS_GetPluginInfo				@3
+		ISYS_Initialize					@4
+		ISYS_Uninitialize				@5
+		ISYS_FreeMemory					@6
+		IPLY_OpenFile					@7
+		IPLY_CloseFile					@8
+		IPLY_Play						@9
+		IPLY_Stop						@10
+		IPLY_CapturePicture				@11
+		IPLY_RefreshPlay				@12
+		IPLY_Pause						@13
+		IPLY_Fast						@14
+		IPLY_Slow						@15
+		IPLY_FastBack					@16
+		IPLY_SlowBack					@17
+		IPLY_Step						@18
+		IPLY_SetPlayPos					@19
+		IPLY_GetPlayPos					@20
+		IPLY_GetTotalTime				@21
+		IPLY_GetPlayedTime				@22
+		IPLY_GetTotalFrames				@23
+		IPLY_GetPlayedFrames			@24
+		IPLY_StartSound					@25
+		IPLY_StopSound					@26
+		IPLY_SetVolume					@27
+		IPLY_SetVideoParams				@28
+		IPLY_GetVideoParams				@29
+		IPLY_OpenPlayStream				@30
+		IPLY_InputStreamData			@31
+		IPLY_StreamPlay					@32
+		IPLY_StreamPause				@33
+		IPLY_ResetStreamBuffer			@34
+		IPLY_StreamRefreshPlay			@35
+		IPLY_StepBack					@36
+		IPLY_StreamStop					@37
+		IPLY_CloseStream				@38
+		IPLY_SetDisplayRegion			@39
+		IPLY_RefreshPlayEx				@40
+		IPLY_RegisterDrawFun			@41

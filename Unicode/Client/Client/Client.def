@@ -1,0 +1,34 @@
+; Client.def : 声明 DLL 的模块参数。
+
+LIBRARY
+
+EXPORTS
+    ; 此处可以是显式导出
+		InitStreamClientLib				@1
+        FiniStreamClientLib             @2
+		HIKS_CreatePlayer               @3
+		HIKS_OpenURL                    @4
+		HIKS_Play                       @5
+		HIKS_Stop                       @6
+		HIKS_GetLastError               @7
+		HIKS_Destroy                    @8
+		HIKS_GetRealDataHeader          @9
+		HIKS_GrabPic                    @10
+		HIKS_GetVideoParams             @11
+		HIKS_SetVideoParams             @12
+		HIKS_PTZControl                 @13
+		HIKS_RandomPlay                 @14
+		HIKS_Pause                      @15
+		HIKS_Resume                     @16
+		HIKS_GetCurTime                 @17
+		HIKS_ChangeRate                 @18
+		HIKS_SetVolume                  @19
+		HIKS_OpenSound                  @20 
+		HIKS_CloseSound                 @21
+		HIKS_ThrowBFrameNum             @22
+		HIKS_PlayBackControl            @23
+		HIKS_QueryDevRecord             @24
+		HIKS_ISYS_FreeMemory            @25
+		HIKS_SetDisplayRegion           @26
+		HIKS_RefreshPlayEx              @27
+		HIKS_RegisterDrawFun            @28

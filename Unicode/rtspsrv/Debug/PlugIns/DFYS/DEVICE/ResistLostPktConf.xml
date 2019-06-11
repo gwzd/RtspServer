@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--socket conf for multicast resist lost packet-->
+
+<imosxp>
+  <pktnum id="interval">30</pktnum>
+	<times id="retrans">3</times>
+</imosxp>

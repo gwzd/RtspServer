@@ -1,0 +1,61 @@
+﻿生成启动时间为 2019/3/22 16:32:42。
+     1>项目“F:\vs2010Project\bjvideo\Unicode\rtspsrv\rtspsrv\rtspsrv.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\rtspsrv.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\vs2010Setup\VC\bin\CL.exe /c /I..\..\Common /I..\..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CONSOLE /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\rtspsrv.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\vs2010Setup\VC\bin\CL.exe /c /I..\..\Common /I..\..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CONSOLE /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\rtspsrv.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EnvConfig.cpp GoodyTwoShoes.cpp PacketSender.cpp PlugInLoader.cpp PlugInVideoSource.cpp Request_Preprocess.cpp SessionManager.cpp StreamConnection.cpp Utilities.cpp VideoManager.cpp VideoSourceFactory.cpp connection.cpp io_service_pool.cpp mime_types.cpp reply.cpp request_handler.cpp request_parser.cpp rtspsrv.cpp server.cpp
+         正在跳过...(未检测到相关更改)
+         server.cpp
+         rtspsrv.cpp
+         request_parser.cpp
+         request_handler.cpp
+         reply.cpp
+         mime_types.cpp
+         io_service_pool.cpp
+         connection.cpp
+         VideoSourceFactory.cpp
+         VideoManager.cpp
+         Utilities.cpp
+         StreamConnection.cpp
+         SessionManager.cpp
+         Request_Preprocess.cpp
+         PlugInVideoSource.cpp
+         PlugInLoader.cpp
+         PacketSender.cpp
+         GoodyTwoShoes.cpp
+         EnvConfig.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\vs2010Setup\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs2010Project\bjvideo\Unicode\rtspsrv\Debug\rtspsrv.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\lib\Win32 jrtplib_d.lib log4cplusUD.lib /MANIFEST:NO /DEBUG /PDB:"F:\vs2010Project\bjvideo\Unicode\rtspsrv\Debug\rtspsrv.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs2010Project\bjvideo\Unicode\rtspsrv\Debug\rtspsrv.lib" /MACHINE:X86 Debug\rtspsrv.res
+         Debug\connection.obj
+         Debug\EnvConfig.obj
+         Debug\GoodyTwoShoes.obj
+         Debug\io_service_pool.obj
+         Debug\mime_types.obj
+         Debug\PacketSender.obj
+         Debug\PlugInLoader.obj
+         Debug\PlugInVideoSource.obj
+         Debug\reply.obj
+         Debug\request_handler.obj
+         Debug\request_parser.obj
+         Debug\Request_Preprocess.obj
+         Debug\rtspsrv.obj
+         Debug\server.obj
+         Debug\SessionManager.obj
+         Debug\stdafx.obj
+         Debug\StreamConnection.obj
+         Debug\Utilities.obj
+         Debug\VideoManager.obj
+         Debug\VideoSourceFactory.obj
+         rtspsrv.vcxproj -> F:\vs2010Project\bjvideo\Unicode\rtspsrv\Debug\rtspsrv.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\rtspsrv.unsuccessfulbuild”。
+         正在对“Debug\rtspsrv.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\vs2010Project\bjvideo\Unicode\rtspsrv\rtspsrv\rtspsrv.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:24.67

@@ -1,0 +1,1291 @@
+08/10/16 20:16:47 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/10/16 20:16:48 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/10/16 20:16:49 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2572, The handle of timer heap is 200671232
+08/10/16 20:16:49 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/10/16 20:16:49 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BEBD5F0.
+08/10/16 20:16:49 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 1 in  Channel 256
+08/10/16 20:16:49 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/10/16 20:16:49 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/10/16 20:16:49 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 00000A58 thead id 8924 in channel 256.
+08/10/16 20:16:49 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/10/16 20:16:49 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/10/16 20:16:49 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/10/16 20:16:49 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/10/16 20:16:49 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/10/16 20:16:49 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/10/16 20:16:55 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 2 in  Channel 257
+08/10/16 20:16:55 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/10/16 20:16:55 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/10/16 20:16:55 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 00000A8C thead id 9372 in channel 257.
+08/10/16 20:16:55 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/10/16 20:16:55 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/10/16 20:16:55 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/10/16 20:16:55 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/10/16 20:16:55 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/10/16 20:16:55 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/10/16 20:18:49 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000A8C.
+08/10/16 20:18:49 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/10/16 20:18:49 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/10/16 20:24:36 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 3 in  Channel 257
+08/10/16 20:24:36 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/10/16 20:24:36 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/10/16 20:24:36 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 00000AF4 thead id 9948 in channel 257.
+08/10/16 20:24:36 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/10/16 20:24:36 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/10/16 20:24:36 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/10/16 20:24:36 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/10/16 20:24:36 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/10/16 20:24:36 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 00:59:46 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000AF4.
+08/11/16 00:59:46 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 00:59:46 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 00:59:49 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 4 in  Channel 257
+08/11/16 00:59:49 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 00:59:49 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/11/16 00:59:49 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 00000A34 thead id 9648 in channel 257.
+08/11/16 00:59:49 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 00:59:49 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 00:59:49 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 00:59:49 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 00:59:49 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 00:59:49 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 00:59:49 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000A58.
+08/11/16 00:59:49 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 00:59:49 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 00:59:50 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 5 in  Channel 256
+08/11/16 00:59:50 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 00:59:50 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 00:59:50 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 00000AA0 thead id 6996 in channel 256.
+08/11/16 00:59:50 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 00:59:50 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 00:59:50 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 00:59:50 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 00:59:50 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 00:59:50 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 07:23:09 [QUE] [ERROR] WriteQueue: BufItem[257] cannot be written
+08/11/16 08:05:51 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AA0.
+08/11/16 08:05:51 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 08:05:51 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 08:05:52 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 6 in  Channel 256
+08/11/16 08:05:52 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 08:05:52 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 08:05:52 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 000009D4 thead id 10152 in channel 256.
+08/11/16 08:05:52 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 08:05:52 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 08:05:52 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 08:05:52 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 08:05:52 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 08:05:52 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 09:05:47 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000A34.
+08/11/16 09:05:47 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 09:05:47 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 09:05:48 [CHN] [TRACE] CreateDisTimer: Thread 8544 created Media Timer ID 7 in  Channel 257
+08/11/16 09:05:48 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 09:05:48 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/11/16 09:05:48 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8544 created decoder handle 00000D74 thead id 9888 in channel 257.
+08/11/16 09:05:48 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 09:05:48 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 09:05:48 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 09:05:48 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 09:05:48 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 09:05:48 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 09:05:57 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 000009D4.
+08/11/16 09:05:57 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 09:05:57 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 09:05:57 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000D74.
+08/11/16 09:05:57 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 09:05:57 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 09:05:59 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/11/16 09:05:59 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 2572
+08/11/16 11:13:44 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 11:13:44 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 11:13:44 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 1884, The handle of timer heap is 199819264
+08/11/16 11:13:44 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 11:13:44 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0B60D5F0.
+08/11/16 11:13:44 [CHN] [TRACE] CreateDisTimer: Thread 2524 created Media Timer ID 1 in  Channel 256
+08/11/16 11:13:44 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 11:13:44 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 11:13:44 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 2524 created decoder handle 00000A8C thead id 9048 in channel 256.
+08/11/16 11:13:44 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 11:13:44 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 11:13:44 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 11:13:44 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:13:44 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:13:44 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:13:47 [CHN] [TRACE] CreateDisTimer: Thread 2524 created Media Timer ID 2 in  Channel 257
+08/11/16 11:13:47 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 11:13:47 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/11/16 11:13:47 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 2524 created decoder handle 0000072C thead id 6904 in channel 257.
+08/11/16 11:13:47 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 11:13:47 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 11:13:47 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 11:13:47 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:13:47 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:13:47 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:13:48 [CHN] [TRACE] CreateDisTimer: Thread 2524 created Media Timer ID 3 in  Channel 258
+08/11/16 11:13:48 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 11:13:48 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 4 render mode 0.
+08/11/16 11:13:48 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 2524 created decoder handle 00000DF8 thead id 11252 in channel 258.
+08/11/16 11:13:48 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 11:13:48 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 11:13:48 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 11:13:48 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:13:48 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:13:48 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:13:51 [CHN] [TRACE] CreateDisTimer: Thread 2524 created Media Timer ID 4 in  Channel 259
+08/11/16 11:13:51 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/11/16 11:13:51 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 4 render mode 0.
+08/11/16 11:13:51 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 2524 created decoder handle 00000E9C thead id 11080 in channel 259.
+08/11/16 11:13:51 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/11/16 11:13:51 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/11/16 11:13:51 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/11/16 11:13:51 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:13:51 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:13:51 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:13:53 [CHN] [TRACE] CreateDisTimer: Thread 2524 created Media Timer ID 5 in  Channel 260
+08/11/16 11:13:53 [CHN] [TRACE] Init: Created decoder channel 260 successfully,the timerInterval:10
+08/11/16 11:13:53 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 260 initialized, stream type 4 render mode 0.
+08/11/16 11:13:53 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 2524 created decoder handle 00000F34 thead id 11152 in channel 260.
+08/11/16 11:13:53 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 260 set display mode 0.
+08/11/16 11:13:53 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 260 Set deinterlace mode 2.
+08/11/16 11:13:53 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 260 Set field mode 0.
+08/11/16 11:13:53 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:13:53 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:13:53 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:13:56 [CHN] [TRACE] CreateDisTimer: Thread 2524 created Media Timer ID 6 in  Channel 261
+08/11/16 11:13:56 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/11/16 11:13:56 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 4 render mode 0.
+08/11/16 11:13:56 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 2524 created decoder handle 00000FDC thead id 10672 in channel 261.
+08/11/16 11:13:56 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/11/16 11:13:56 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/11/16 11:13:56 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/11/16 11:13:56 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:13:56 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:13:56 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:13:57 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/11/16 11:14:04 [DIS] [ERROR] DDRAW::RendSurface: first Blt operation Failed 0x88760096.
+08/11/16 11:14:30 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 11:14:30 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 11:14:30 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2736, The handle of timer heap is 200278016
+08/11/16 11:14:30 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 11:14:30 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BC5D5F0.
+08/11/16 11:14:30 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 1 in  Channel 256
+08/11/16 11:14:30 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 11:14:30 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 11:14:30 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000AE8 thead id 4420 in channel 256.
+08/11/16 11:14:30 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 11:14:30 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 11:14:30 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 11:14:30 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:30 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:30 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:32 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 2 in  Channel 257
+08/11/16 11:14:32 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 11:14:32 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/11/16 11:14:32 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000B8C thead id 9576 in channel 257.
+08/11/16 11:14:32 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 11:14:32 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 11:14:32 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 11:14:32 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:32 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:32 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:35 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 3 in  Channel 258
+08/11/16 11:14:35 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 11:14:35 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 4 render mode 0.
+08/11/16 11:14:35 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000C28 thead id 11656 in channel 258.
+08/11/16 11:14:35 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 11:14:35 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:35 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 11:14:35 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 11:14:35 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:35 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:38 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 4 in  Channel 259
+08/11/16 11:14:38 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/11/16 11:14:38 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 4 render mode 0.
+08/11/16 11:14:38 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000CCC thead id 11172 in channel 259.
+08/11/16 11:14:38 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/11/16 11:14:38 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/11/16 11:14:38 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/11/16 11:14:38 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:38 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:38 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:41 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 5 in  Channel 260
+08/11/16 11:14:41 [CHN] [TRACE] Init: Created decoder channel 260 successfully,the timerInterval:10
+08/11/16 11:14:41 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 260 initialized, stream type 4 render mode 0.
+08/11/16 11:14:41 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000D64 thead id 6624 in channel 260.
+08/11/16 11:14:41 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 260 set display mode 0.
+08/11/16 11:14:41 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 260 Set deinterlace mode 2.
+08/11/16 11:14:41 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 260 Set field mode 0.
+08/11/16 11:14:41 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:41 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:41 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:47 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/11/16 11:14:47 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 6 in  Channel 261
+08/11/16 11:14:47 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/11/16 11:14:47 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 4 render mode 0.
+08/11/16 11:14:47 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000E00 thead id 10320 in channel 261.
+08/11/16 11:14:47 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/11/16 11:14:47 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/11/16 11:14:47 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/11/16 11:14:47 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:47 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:47 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:48 [QUE] [ERROR] WriteQueue: BufItem[257] cannot be written
+08/11/16 11:14:50 [QUE] [ERROR] WriteQueue: BufItem[261] cannot be written
+08/11/16 11:14:51 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 7 in  Channel 262
+08/11/16 11:14:51 [CHN] [TRACE] Init: Created decoder channel 262 successfully,the timerInterval:10
+08/11/16 11:14:51 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 262 initialized, stream type 4 render mode 0.
+08/11/16 11:14:51 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000E98 thead id 9460 in channel 262.
+08/11/16 11:14:51 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 262 set display mode 0.
+08/11/16 11:14:51 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 262 Set deinterlace mode 2.
+08/11/16 11:14:51 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 262 Set field mode 0.
+08/11/16 11:14:51 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:51 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:51 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:57 [CHN] [TRACE] CreateDisTimer: Thread 8432 created Media Timer ID 8 in  Channel 263
+08/11/16 11:14:57 [CHN] [TRACE] Init: Created decoder channel 263 successfully,the timerInterval:10
+08/11/16 11:14:57 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 263 initialized, stream type 4 render mode 0.
+08/11/16 11:14:57 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 8432 created decoder handle 00000F44 thead id 8516 in channel 263.
+08/11/16 11:14:57 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 263 set display mode 0.
+08/11/16 11:14:57 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 263 Set deinterlace mode 2.
+08/11/16 11:14:57 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 263 Set field mode 0.
+08/11/16 11:14:57 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:14:57 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:14:57 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+08/11/16 11:14:57 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:14:58 [QUE] [ERROR] WriteQueue: BufItem[258] cannot be written
+08/11/16 11:15:00 [QUE] [ERROR] WriteQueue: BufItem[262] cannot be written
+08/11/16 11:15:00 [QUE] [ERROR] WriteQueue: BufItem[260] cannot be written
+08/11/16 11:15:01 [QUE] [ERROR] WriteQueue: BufItem[263] cannot be written
+08/11/16 11:17:11 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 11:17:11 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 11:17:11 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2744, The handle of timer heap is 198246400
+08/11/16 11:17:11 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 11:17:11 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BA6D5F0.
+08/11/16 11:17:11 [CHN] [TRACE] CreateDisTimer: Thread 10744 created Media Timer ID 1 in  Channel 256
+08/11/16 11:17:11 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 11:17:11 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 11:17:11 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10744 created decoder handle 00000AF0 thead id 9280 in channel 256.
+08/11/16 11:17:11 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 11:17:11 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 11:17:11 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 11:17:11 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:17:11 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:17:11 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:17:16 [CHN] [TRACE] CreateDisTimer: Thread 10744 created Media Timer ID 2 in  Channel 257
+08/11/16 11:17:16 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 11:17:16 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 4 render mode 0.
+08/11/16 11:17:16 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10744 created decoder handle 00000B94 thead id 10500 in channel 257.
+08/11/16 11:17:16 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 11:17:16 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 11:17:16 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 11:17:16 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:17:16 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:17:16 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:17:24 [CHN] [TRACE] CreateDisTimer: Thread 10744 created Media Timer ID 3 in  Channel 258
+08/11/16 11:17:24 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 11:17:24 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 4 render mode 0.
+08/11/16 11:17:24 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10744 created decoder handle 00000C34 thead id 11016 in channel 258.
+08/11/16 11:17:24 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 11:17:24 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 11:17:24 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 11:17:24 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:17:24 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:17:24 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:17:33 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AF0.
+08/11/16 11:17:33 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 11:17:33 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 11:17:34 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000B94.
+08/11/16 11:17:34 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 11:17:34 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 11:17:34 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C34.
+08/11/16 11:17:34 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 11:17:34 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 11:17:44 [CHN] [TRACE] CreateDisTimer: Thread 10744 created Media Timer ID 4 in  Channel 256
+08/11/16 11:17:44 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 11:17:44 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 11:17:44 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10744 created decoder handle 00000BAC thead id 6456 in channel 256.
+08/11/16 11:17:44 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 11:17:44 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 11:17:44 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 11:17:44 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 11:17:44 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 11:17:44 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 11:20:39 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000BAC.
+08/11/16 11:20:39 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 11:20:39 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 11:20:39 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/11/16 11:20:39 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 2744
+08/11/16 12:02:01 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 12:02:01 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 12:02:01 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 3144, The handle of timer heap is 296681472
+08/11/16 12:02:01 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 12:02:01 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 109AD5F0.
+08/11/16 12:02:01 [CHN] [TRACE] CreateDisTimer: Thread 9348 created Media Timer ID 1 in  Channel 256
+08/11/16 12:02:01 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 12:02:01 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 4 render mode 0.
+08/11/16 12:02:01 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9348 created decoder handle 00000C88 thead id 11536 in channel 256.
+08/11/16 12:02:01 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 12:02:01 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 12:02:01 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 12:02:01 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 12:02:01 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 12:02:01 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 14:20:02 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000C88.
+08/11/16 14:20:02 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 14:20:02 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 15:53:24 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/11/16 15:53:24 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 3144
+08/11/16 16:00:46 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 16:00:46 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 16:00:46 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2632, The handle of timer heap is 198443008
+08/11/16 16:00:46 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 16:00:46 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BC9D5F0.
+08/11/16 16:00:46 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 1 in  Channel 256
+08/11/16 16:00:46 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:00:46 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:00:46 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000938 thead id 10668 in channel 256.
+08/11/16 16:00:46 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:00:46 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:00:46 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:00:46 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:00:46 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:00:46 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:00:52 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 2 in  Channel 257
+08/11/16 16:00:52 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 16:00:52 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/11/16 16:00:52 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000B90 thead id 9668 in channel 257.
+08/11/16 16:00:52 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 16:00:52 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 16:00:52 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 16:00:52 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:00:52 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:00:52 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:01:04 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 3 in  Channel 258
+08/11/16 16:01:04 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 16:01:04 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/11/16 16:01:04 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000C24 thead id 5128 in channel 258.
+08/11/16 16:01:04 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 16:01:04 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 16:01:04 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 16:01:04 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:01:04 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:01:04 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:01:13 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 4 in  Channel 259
+08/11/16 16:01:13 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/11/16 16:01:13 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 40 render mode 0.
+08/11/16 16:01:13 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000CF0 thead id 872 in channel 259.
+08/11/16 16:01:13 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/11/16 16:01:13 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/11/16 16:01:13 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/11/16 16:01:13 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:01:13 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:01:13 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:01:33 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000938.
+08/11/16 16:01:33 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:01:33 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:01:35 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 5 in  Channel 256
+08/11/16 16:01:35 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:01:35 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:01:35 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000B4C thead id 6904 in channel 256.
+08/11/16 16:01:35 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:01:35 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:01:35 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:01:35 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:01:35 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:01:35 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:02:33 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000B90.
+08/11/16 16:02:33 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 16:02:33 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 16:02:34 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000B4C.
+08/11/16 16:02:34 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:02:34 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:02:35 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C24.
+08/11/16 16:02:35 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 16:02:35 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 16:05:53 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 259 thread handle 00000CF0.
+08/11/16 16:05:53 [CHN] [TRACE] Release: Release decoder channel 259 successfully 
+08/11/16 16:05:53 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 259.
+08/11/16 16:06:34 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 6 in  Channel 256
+08/11/16 16:06:34 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:06:34 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:06:34 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000D04 thead id 8960 in channel 256.
+08/11/16 16:06:34 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:06:34 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:06:34 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:06:34 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:06:34 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:06:34 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:07:55 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000D04.
+08/11/16 16:07:55 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:07:55 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:07:56 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 7 in  Channel 256
+08/11/16 16:07:56 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:07:56 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:07:56 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000C94 thead id 8216 in channel 256.
+08/11/16 16:07:56 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:07:56 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:07:56 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:07:56 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:07:56 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:07:56 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:15 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 8 in  Channel 257
+08/11/16 16:08:15 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 16:08:15 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/11/16 16:08:15 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000BD8 thead id 10032 in channel 257.
+08/11/16 16:08:15 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 16:08:15 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 16:08:15 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 16:08:15 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:08:15 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:08:15 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:16 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000C94.
+08/11/16 16:08:16 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:08:16 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:08:37 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000BD8.
+08/11/16 16:08:37 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 16:08:37 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 16:08:39 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 9 in  Channel 256
+08/11/16 16:08:39 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:08:39 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:08:39 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000C48 thead id 11328 in channel 256.
+08/11/16 16:08:39 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:08:39 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:08:39 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:08:39 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:08:39 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:08:39 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:43 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 10 in  Channel 257
+08/11/16 16:08:43 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 16:08:43 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/11/16 16:08:43 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000774 thead id 9304 in channel 257.
+08/11/16 16:08:43 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 16:08:43 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 16:08:43 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 16:08:43 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:08:43 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:43 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:08:46 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 11 in  Channel 258
+08/11/16 16:08:46 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 16:08:46 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/11/16 16:08:46 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000B4C thead id 10900 in channel 258.
+08/11/16 16:08:46 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 16:08:46 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 16:08:46 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 16:08:46 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:46 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:08:46 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:08:50 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000C48.
+08/11/16 16:08:50 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:08:50 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:08:52 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 12 in  Channel 256
+08/11/16 16:08:52 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:08:52 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:08:52 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000C50 thead id 11152 in channel 256.
+08/11/16 16:08:52 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:08:52 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:08:52 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:08:52 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:08:52 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:08:52 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:54 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 13 in  Channel 259
+08/11/16 16:08:54 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/11/16 16:08:54 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 40 render mode 0.
+08/11/16 16:08:54 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000CD0 thead id 12112 in channel 259.
+08/11/16 16:08:54 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/11/16 16:08:54 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/11/16 16:08:54 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/11/16 16:08:54 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:08:54 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:08:54 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:08:58 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000774.
+08/11/16 16:08:58 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 16:08:58 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 16:08:59 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000B4C.
+08/11/16 16:08:59 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 16:08:59 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 16:08:59 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000C50.
+08/11/16 16:08:59 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:08:59 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:09:00 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 259 thread handle 00000CD0.
+08/11/16 16:09:00 [CHN] [TRACE] Release: Release decoder channel 259 successfully 
+08/11/16 16:09:00 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 259.
+08/11/16 16:09:02 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 14 in  Channel 256
+08/11/16 16:09:02 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:09:02 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:09:02 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000B84 thead id 9036 in channel 256.
+08/11/16 16:09:02 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:09:02 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:09:02 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:09:02 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:09:02 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:09:02 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:09:05 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 15 in  Channel 257
+08/11/16 16:09:05 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 16:09:05 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/11/16 16:09:05 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000C20 thead id 10692 in channel 257.
+08/11/16 16:09:05 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 16:09:05 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 16:09:05 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 16:09:05 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:09:05 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:09:05 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:09:07 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 16 in  Channel 258
+08/11/16 16:09:07 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 16:09:07 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/11/16 16:09:07 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000954 thead id 11844 in channel 258.
+08/11/16 16:09:07 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 16:09:07 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 16:09:07 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 16:09:07 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:09:07 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:09:07 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:09:11 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000B84.
+08/11/16 16:09:11 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:09:11 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:09:11 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000C20.
+08/11/16 16:09:11 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 16:09:11 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 16:09:12 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000954.
+08/11/16 16:09:12 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 16:09:12 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 16:14:14 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 17 in  Channel 256
+08/11/16 16:14:14 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 16:14:14 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 16:14:14 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000B4C thead id 11464 in channel 256.
+08/11/16 16:14:14 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 16:14:14 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 16:14:14 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 16:14:14 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:14:14 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:14:14 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:14:16 [CHN] [TRACE] CreateDisTimer: Thread 9392 created Media Timer ID 18 in  Channel 257
+08/11/16 16:14:16 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 16:14:16 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/11/16 16:14:16 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 9392 created decoder handle 00000C38 thead id 10948 in channel 257.
+08/11/16 16:14:16 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 16:14:16 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 16:14:16 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 16:14:16 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 16:14:16 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 16:14:16 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 16:14:29 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000B4C.
+08/11/16 16:14:29 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 16:14:29 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 16:14:29 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000C38.
+08/11/16 16:14:29 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 16:14:29 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/11/16 17:47:47 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/11/16 17:47:47 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 2632
+08/11/16 17:56:17 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 17:56:17 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 17:56:17 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2748, The handle of timer heap is 200343552
+08/11/16 17:56:17 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 17:56:17 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BE6D5F0.
+08/11/16 17:56:17 [CHN] [TRACE] CreateDisTimer: Thread 7212 created Media Timer ID 1 in  Channel 256
+08/11/16 17:56:17 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 17:56:17 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 17:56:17 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 7212 created decoder handle 00000AF4 thead id 8840 in channel 256.
+08/11/16 17:56:17 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 17:56:17 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 17:56:17 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 17:56:17 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 17:56:17 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 17:56:17 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 17:57:01 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AF4.
+08/11/16 17:57:01 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 17:57:01 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 17:57:03 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/11/16 17:57:03 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 2748
+08/11/16 20:27:00 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/11/16 20:27:00 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/11/16 20:27:00 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2632, The handle of timer heap is 192413696
+08/11/16 20:27:00 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/11/16 20:27:00 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0B6CD5F0.
+08/11/16 20:27:00 [CHN] [TRACE] CreateDisTimer: Thread 10980 created Media Timer ID 1 in  Channel 256
+08/11/16 20:27:00 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/11/16 20:27:00 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/11/16 20:27:00 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10980 created decoder handle 00000A80 thead id 7752 in channel 256.
+08/11/16 20:27:00 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/11/16 20:27:00 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/11/16 20:27:00 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/11/16 20:27:00 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 20:27:00 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 20:27:00 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 20:27:05 [CHN] [TRACE] CreateDisTimer: Thread 10980 created Media Timer ID 2 in  Channel 257
+08/11/16 20:27:05 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/11/16 20:27:05 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/11/16 20:27:05 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10980 created decoder handle 00000B10 thead id 8356 in channel 257.
+08/11/16 20:27:05 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/11/16 20:27:05 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/11/16 20:27:05 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/11/16 20:27:05 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 20:27:05 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 20:27:05 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 20:27:28 [CHN] [TRACE] CreateDisTimer: Thread 10980 created Media Timer ID 3 in  Channel 258
+08/11/16 20:27:28 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 20:27:28 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/11/16 20:27:28 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10980 created decoder handle 00000C48 thead id 10704 in channel 258.
+08/11/16 20:27:28 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 20:27:28 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 20:27:28 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 20:27:28 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 20:27:28 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 20:27:28 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 20:27:30 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C48.
+08/11/16 20:27:30 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 20:27:30 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 20:27:35 [CHN] [TRACE] CreateDisTimer: Thread 10980 created Media Timer ID 4 in  Channel 258
+08/11/16 20:27:35 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 20:27:35 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/11/16 20:27:35 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10980 created decoder handle 00000C18 thead id 10804 in channel 258.
+08/11/16 20:27:35 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 20:27:35 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 20:27:35 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 20:27:35 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 20:27:35 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 20:27:35 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 20:27:41 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C18.
+08/11/16 20:27:41 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 20:27:41 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 20:39:07 [CHN] [TRACE] CreateDisTimer: Thread 10980 created Media Timer ID 5 in  Channel 258
+08/11/16 20:39:07 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/11/16 20:39:07 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/11/16 20:39:07 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 10980 created decoder handle 00000C64 thead id 9596 in channel 258.
+08/11/16 20:39:07 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/11/16 20:39:07 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/11/16 20:39:07 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/11/16 20:39:07 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/11/16 20:39:07 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/11/16 20:39:07 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/11/16 20:39:33 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C64.
+08/11/16 20:39:33 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/11/16 20:39:33 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/11/16 20:40:45 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000A80.
+08/11/16 20:40:45 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/11/16 20:40:45 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/11/16 20:40:45 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000B10.
+08/11/16 20:40:45 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/11/16 20:40:45 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/29/16 09:35:02 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/29/16 09:35:02 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/29/16 09:35:02 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 3960, The handle of timer heap is 267649024
+08/29/16 09:35:02 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/29/16 09:35:02 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0D4AD5F0.
+08/29/16 09:35:02 [CHN] [TRACE] CreateDisTimer: Thread 61308 created Media Timer ID 1 in  Channel 256
+08/29/16 09:35:02 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/29/16 09:35:02 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/29/16 09:35:02 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61308 created decoder handle 000011F8 thead id 55660 in channel 256.
+08/29/16 09:35:02 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/29/16 09:35:02 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/29/16 09:35:02 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/29/16 09:35:02 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:35:02 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:35:02 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:35:31 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 000011F8.
+08/29/16 09:35:31 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/29/16 09:35:31 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/29/16 09:35:32 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/29/16 09:35:32 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 3960
+08/29/16 09:36:09 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/29/16 09:36:09 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/29/16 09:36:09 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2768, The handle of timer heap is 200278016
+08/29/16 09:36:09 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/29/16 09:36:09 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BE5D5F0.
+08/29/16 09:36:09 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 1 in  Channel 256
+08/29/16 09:36:09 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/29/16 09:36:09 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/29/16 09:36:09 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000B08 thead id 60336 in channel 256.
+08/29/16 09:36:09 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/29/16 09:36:09 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/29/16 09:36:09 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/29/16 09:36:09 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:09 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:09 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:13 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000B08.
+08/29/16 09:36:13 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/29/16 09:36:13 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/29/16 09:36:15 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 2 in  Channel 256
+08/29/16 09:36:15 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/29/16 09:36:15 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/29/16 09:36:15 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000AA4 thead id 58408 in channel 256.
+08/29/16 09:36:15 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/29/16 09:36:15 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/29/16 09:36:15 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/29/16 09:36:15 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:15 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:15 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:16 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 3 in  Channel 257
+08/29/16 09:36:16 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/29/16 09:36:16 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/29/16 09:36:16 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000BA0 thead id 59968 in channel 257.
+08/29/16 09:36:16 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/29/16 09:36:16 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/29/16 09:36:16 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/29/16 09:36:16 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:16 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:16 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:18 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 4 in  Channel 258
+08/29/16 09:36:18 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/29/16 09:36:18 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/29/16 09:36:18 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000C28 thead id 56104 in channel 258.
+08/29/16 09:36:18 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/29/16 09:36:18 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/29/16 09:36:18 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/29/16 09:36:18 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:18 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:18 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:20 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 5 in  Channel 259
+08/29/16 09:36:20 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/29/16 09:36:20 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 40 render mode 0.
+08/29/16 09:36:20 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000CB8 thead id 58656 in channel 259.
+08/29/16 09:36:20 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/29/16 09:36:20 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/29/16 09:36:20 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/29/16 09:36:20 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:20 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:20 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:22 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 6 in  Channel 260
+08/29/16 09:36:22 [CHN] [TRACE] Init: Created decoder channel 260 successfully,the timerInterval:10
+08/29/16 09:36:22 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 260 initialized, stream type 40 render mode 0.
+08/29/16 09:36:22 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000D5C thead id 60608 in channel 260.
+08/29/16 09:36:22 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 260 set display mode 0.
+08/29/16 09:36:22 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 260 Set deinterlace mode 2.
+08/29/16 09:36:22 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 260 Set field mode 0.
+08/29/16 09:36:22 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:22 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:22 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:24 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 7 in  Channel 261
+08/29/16 09:36:24 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/29/16 09:36:24 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/29/16 09:36:24 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000DE8 thead id 61044 in channel 261.
+08/29/16 09:36:24 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/29/16 09:36:24 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/29/16 09:36:24 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/29/16 09:36:24 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:24 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:24 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:26 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/29/16 09:36:27 [QUE] [ERROR] WriteQueue: BufItem[261] cannot be written
+08/29/16 09:36:27 [QUE] [ERROR] WriteQueue: BufItem[257] cannot be written
+08/29/16 09:36:35 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AA4.
+08/29/16 09:36:35 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/29/16 09:36:35 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/29/16 09:36:35 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000BA0.
+08/29/16 09:36:35 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/29/16 09:36:35 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/29/16 09:36:37 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C28.
+08/29/16 09:36:37 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/29/16 09:36:37 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/29/16 09:36:37 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 259 thread handle 00000CB8.
+08/29/16 09:36:37 [CHN] [TRACE] Release: Release decoder channel 259 successfully 
+08/29/16 09:36:37 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 259.
+08/29/16 09:36:37 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 260 thread handle 00000D5C.
+08/29/16 09:36:37 [CHN] [TRACE] Release: Release decoder channel 260 successfully 
+08/29/16 09:36:37 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 260.
+08/29/16 09:36:38 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000DE8.
+08/29/16 09:36:38 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/29/16 09:36:38 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/29/16 09:36:39 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 8 in  Channel 256
+08/29/16 09:36:39 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/29/16 09:36:39 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/29/16 09:36:39 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000E10 thead id 59844 in channel 256.
+08/29/16 09:36:39 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/29/16 09:36:39 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/29/16 09:36:39 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/29/16 09:36:39 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:39 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:39 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:40 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 9 in  Channel 257
+08/29/16 09:36:40 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/29/16 09:36:40 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/29/16 09:36:40 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000D74 thead id 60872 in channel 257.
+08/29/16 09:36:40 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/29/16 09:36:40 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/29/16 09:36:40 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/29/16 09:36:40 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:40 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:40 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:42 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 10 in  Channel 258
+08/29/16 09:36:42 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/29/16 09:36:42 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/29/16 09:36:42 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000CB8 thead id 58472 in channel 258.
+08/29/16 09:36:42 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/29/16 09:36:42 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/29/16 09:36:42 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/29/16 09:36:42 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:42 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:42 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:43 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 11 in  Channel 259
+08/29/16 09:36:43 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/29/16 09:36:43 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 40 render mode 0.
+08/29/16 09:36:43 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000C38 thead id 60440 in channel 259.
+08/29/16 09:36:43 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/29/16 09:36:43 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/29/16 09:36:43 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:43 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/29/16 09:36:43 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:43 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:45 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 12 in  Channel 260
+08/29/16 09:36:45 [CHN] [TRACE] Init: Created decoder channel 260 successfully,the timerInterval:10
+08/29/16 09:36:45 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 260 initialized, stream type 40 render mode 0.
+08/29/16 09:36:45 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000BAC thead id 60788 in channel 260.
+08/29/16 09:36:45 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 260 set display mode 0.
+08/29/16 09:36:45 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 260 Set deinterlace mode 2.
+08/29/16 09:36:45 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 260 Set field mode 0.
+08/29/16 09:36:45 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:45 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:45 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:47 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 13 in  Channel 261
+08/29/16 09:36:47 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/29/16 09:36:47 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/29/16 09:36:47 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000A70 thead id 61264 in channel 261.
+08/29/16 09:36:47 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/29/16 09:36:47 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/29/16 09:36:47 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/29/16 09:36:47 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:47 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:47 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:49 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+08/29/16 09:36:49 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 14 in  Channel 262
+08/29/16 09:36:49 [CHN] [TRACE] Init: Created decoder channel 262 successfully,the timerInterval:10
+08/29/16 09:36:49 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 262 initialized, stream type 40 render mode 0.
+08/29/16 09:36:49 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000E74 thead id 60332 in channel 262.
+08/29/16 09:36:49 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 262 set display mode 0.
+08/29/16 09:36:49 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 262 Set deinterlace mode 2.
+08/29/16 09:36:49 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 262 Set field mode 0.
+08/29/16 09:36:49 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:49 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:49 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:51 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 15 in  Channel 263
+08/29/16 09:36:51 [CHN] [TRACE] Init: Created decoder channel 263 successfully,the timerInterval:10
+08/29/16 09:36:51 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 263 initialized, stream type 40 render mode 0.
+08/29/16 09:36:51 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000F0C thead id 60336 in channel 263.
+08/29/16 09:36:51 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 263 set display mode 0.
+08/29/16 09:36:51 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 263 Set deinterlace mode 2.
+08/29/16 09:36:51 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 263 Set field mode 0.
+08/29/16 09:36:51 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:51 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:51 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:57 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 16 in  Channel 264
+08/29/16 09:36:57 [CHN] [TRACE] Init: Created decoder channel 264 successfully,the timerInterval:10
+08/29/16 09:36:57 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 264 initialized, stream type 40 render mode 0.
+08/29/16 09:36:57 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00000FA4 thead id 60272 in channel 264.
+08/29/16 09:36:57 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 264 set display mode 0.
+08/29/16 09:36:57 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 264 Set deinterlace mode 2.
+08/29/16 09:36:57 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 264 Set field mode 0.
+08/29/16 09:36:57 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:36:57 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:36:57 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:36:59 [QUE] [ERROR] WriteQueue: BufItem[263] cannot be written
+08/29/16 09:37:00 [QUE] [ERROR] WriteQueue: BufItem[264] cannot be written
+08/29/16 09:37:01 [QUE] [ERROR] WriteQueue: BufItem[258] cannot be written
+08/29/16 09:37:03 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 17 in  Channel 265
+08/29/16 09:37:03 [CHN] [TRACE] Init: Created decoder channel 265 successfully,the timerInterval:10
+08/29/16 09:37:03 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 265 initialized, stream type 40 render mode 0.
+08/29/16 09:37:03 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00001070 thead id 60388 in channel 265.
+08/29/16 09:37:03 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 265 set display mode 0.
+08/29/16 09:37:03 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 265 Set deinterlace mode 2.
+08/29/16 09:37:03 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 265 Set field mode 0.
+08/29/16 09:37:03 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:37:03 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:37:04 [QUE] [ERROR] WriteQueue: BufItem[262] cannot be written
+08/29/16 09:37:04 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:37:05 [QUE] [ERROR] WriteQueue: BufItem[260] cannot be written
+08/29/16 09:37:16 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 18 in  Channel 266
+08/29/16 09:37:16 [CHN] [TRACE] Init: Created decoder channel 266 successfully,the timerInterval:10
+08/29/16 09:37:16 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 266 initialized, stream type 40 render mode 0.
+08/29/16 09:37:16 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 000011BC thead id 58280 in channel 266.
+08/29/16 09:37:16 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 266 set display mode 0.
+08/29/16 09:37:16 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 266 Set deinterlace mode 2.
+08/29/16 09:37:16 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 266 Set field mode 0.
+08/29/16 09:37:16 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:37:16 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:37:17 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:37:20 [QUE] [ERROR] WriteQueue: BufItem[266] cannot be written
+08/29/16 09:37:26 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 19 in  Channel 267
+08/29/16 09:37:26 [CHN] [TRACE] Init: Created decoder channel 267 successfully,the timerInterval:10
+08/29/16 09:37:26 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 267 initialized, stream type 40 render mode 0.
+08/29/16 09:37:26 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00001098 thead id 57520 in channel 267.
+08/29/16 09:37:26 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 267 set display mode 0.
+08/29/16 09:37:26 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 267 Set deinterlace mode 2.
+08/29/16 09:37:26 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 267 Set field mode 0.
+08/29/16 09:37:26 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:37:26 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:37:26 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:37:30 [QUE] [ERROR] WriteQueue: BufItem[267] cannot be written
+08/29/16 09:37:34 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 20 in  Channel 268
+08/29/16 09:37:34 [CHN] [TRACE] Init: Created decoder channel 268 successfully,the timerInterval:10
+08/29/16 09:37:34 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 268 initialized, stream type 40 render mode 0.
+08/29/16 09:37:34 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 000012AC thead id 60036 in channel 268.
+08/29/16 09:37:34 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 268 set display mode 0.
+08/29/16 09:37:34 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 268 Set deinterlace mode 2.
+08/29/16 09:37:34 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 268 Set field mode 0.
+08/29/16 09:37:34 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:37:34 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:37:34 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:37:37 [QUE] [ERROR] WriteQueue: BufItem[268] cannot be written
+08/29/16 09:37:47 [CHN] [TRACE] CreateDisTimer: Thread 55328 created Media Timer ID 21 in  Channel 269
+08/29/16 09:37:47 [CHN] [TRACE] Init: Created decoder channel 269 successfully,the timerInterval:10
+08/29/16 09:37:47 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 269 initialized, stream type 40 render mode 0.
+08/29/16 09:37:47 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 55328 created decoder handle 00001360 thead id 57968 in channel 269.
+08/29/16 09:37:47 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 269 set display mode 0.
+08/29/16 09:37:47 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 269 Set deinterlace mode 2.
+08/29/16 09:37:47 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 269 Set field mode 0.
+08/29/16 09:37:47 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/29/16 09:37:47 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/29/16 09:37:47 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/29/16 09:37:57 [QUE] [ERROR] WriteQueue: BufItem[269] cannot be written
+08/29/16 09:38:33 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 265 thread handle 00001070.
+08/29/16 09:38:34 [CHN] [TRACE] Release: Release decoder channel 265 successfully 
+08/29/16 09:38:34 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 265.
+08/29/16 09:46:13 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+08/29/16 09:46:16 [QUE] [TRACE] WriteQueue: BufItem[257] is FULL! now I-frame synchronizing
+08/29/16 09:46:19 [QUE] [TRACE] WriteQueue: BufItem[258] is FULL! now I-frame synchronizing
+08/29/16 09:46:21 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/29/16 09:46:23 [QUE] [TRACE] WriteQueue: BufItem[260] is FULL! now I-frame synchronizing
+08/29/16 09:46:32 [QUE] [ERROR] WriteQueue: BufItem[261] cannot be written
+08/29/16 09:46:55 [QUE] [ERROR] WriteQueue: BufItem[263] cannot be written
+08/29/16 09:46:55 [QUE] [ERROR] WriteQueue: BufItem[262] cannot be written
+08/29/16 09:46:58 [QUE] [TRACE] WriteQueue: BufItem[264] is FULL! now I-frame synchronizing
+08/29/16 09:47:18 [QUE] [TRACE] WriteQueue: BufItem[266] is FULL! now I-frame synchronizing
+08/29/16 09:47:31 [QUE] [ERROR] WriteQueue: BufItem[267] cannot be written
+08/29/16 09:47:35 [QUE] [ERROR] WriteQueue: BufItem[268] cannot be written
+08/29/16 09:47:49 [QUE] [TRACE] WriteQueue: BufItem[269] is FULL! now I-frame synchronizing
+08/29/16 09:56:13 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+08/29/16 09:56:16 [QUE] [TRACE] WriteQueue: BufItem[257] is FULL! now I-frame synchronizing
+08/29/16 09:56:20 [QUE] [ERROR] WriteQueue: BufItem[258] cannot be written
+08/29/16 09:56:21 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/29/16 09:56:23 [QUE] [TRACE] WriteQueue: BufItem[260] is FULL! now I-frame synchronizing
+08/29/16 09:56:53 [QUE] [TRACE] WriteQueue: BufItem[263] is FULL! now I-frame synchronizing
+08/29/16 09:56:58 [QUE] [TRACE] WriteQueue: BufItem[264] is FULL! now I-frame synchronizing
+08/29/16 09:57:03 [QUE] [ERROR] WriteQueue: BufItem[262] cannot be written
+08/29/16 09:57:18 [QUE] [TRACE] WriteQueue: BufItem[266] is FULL! now I-frame synchronizing
+08/29/16 09:57:29 [QUE] [ERROR] WriteQueue: BufItem[267] cannot be written
+08/29/16 09:57:36 [QUE] [ERROR] WriteQueue: BufItem[268] cannot be written
+08/29/16 09:57:49 [QUE] [TRACE] WriteQueue: BufItem[269] is FULL! now I-frame synchronizing
+08/30/16 09:20:25 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/30/16 09:20:25 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/30/16 09:20:25 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2752, The handle of timer heap is 201326592
+08/30/16 09:20:25 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/30/16 09:20:25 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BF5D5F0.
+08/30/16 09:20:25 [CHN] [TRACE] CreateDisTimer: Thread 58268 created Media Timer ID 1 in  Channel 256
+08/30/16 09:20:25 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/30/16 09:20:25 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/30/16 09:20:25 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 58268 created decoder handle 00000AFC thead id 60492 in channel 256.
+08/30/16 09:20:25 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/30/16 09:20:25 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/30/16 09:20:25 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/30/16 09:20:25 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 09:20:25 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 09:20:25 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 09:36:06 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AFC.
+08/30/16 09:36:06 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/30/16 09:36:06 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/30/16 09:36:08 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/30/16 09:36:08 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 2752
+08/30/16 11:11:54 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+08/30/16 11:11:54 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+08/30/16 11:11:54 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 2720, The handle of timer heap is 213057536
+08/30/16 11:11:54 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+08/30/16 11:11:54 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0CA4D5F0.
+08/30/16 11:11:54 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 1 in  Channel 256
+08/30/16 11:11:54 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/30/16 11:11:54 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/30/16 11:11:54 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000AE4 thead id 55972 in channel 256.
+08/30/16 11:11:54 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/30/16 11:11:54 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/30/16 11:11:54 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/30/16 11:11:54 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 11:11:54 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 11:11:54 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 11:14:38 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AE4.
+08/30/16 11:14:38 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/30/16 11:14:38 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/30/16 15:16:14 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 2 in  Channel 256
+08/30/16 15:16:14 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/30/16 15:16:14 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/30/16 15:16:14 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000AEC thead id 60112 in channel 256.
+08/30/16 15:16:14 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/30/16 15:16:14 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/30/16 15:16:14 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/30/16 15:16:14 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:14 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:14 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:22 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000AEC.
+08/30/16 15:16:22 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/30/16 15:16:22 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/30/16 15:16:22 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 3 in  Channel 256
+08/30/16 15:16:22 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+08/30/16 15:16:22 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+08/30/16 15:16:22 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 000001F0 thead id 56548 in channel 256.
+08/30/16 15:16:22 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+08/30/16 15:16:22 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+08/30/16 15:16:22 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+08/30/16 15:16:22 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:22 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:22 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:24 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 4 in  Channel 257
+08/30/16 15:16:24 [CHN] [TRACE] Init: Created decoder channel 257 successfully,the timerInterval:10
+08/30/16 15:16:24 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 257 initialized, stream type 40 render mode 0.
+08/30/16 15:16:24 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000B70 thead id 56568 in channel 257.
+08/30/16 15:16:24 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 257 set display mode 0.
+08/30/16 15:16:24 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 257 Set deinterlace mode 2.
+08/30/16 15:16:24 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:24 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 257 Set field mode 0.
+08/30/16 15:16:24 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:24 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:26 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 5 in  Channel 258
+08/30/16 15:16:26 [CHN] [TRACE] Init: Created decoder channel 258 successfully,the timerInterval:10
+08/30/16 15:16:26 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 258 initialized, stream type 40 render mode 0.
+08/30/16 15:16:26 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000C10 thead id 60468 in channel 258.
+08/30/16 15:16:26 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 258 set display mode 0.
+08/30/16 15:16:26 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 258 Set deinterlace mode 2.
+08/30/16 15:16:26 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 258 Set field mode 0.
+08/30/16 15:16:26 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:26 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:26 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:27 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 6 in  Channel 259
+08/30/16 15:16:27 [CHN] [TRACE] Init: Created decoder channel 259 successfully,the timerInterval:10
+08/30/16 15:16:27 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 259 initialized, stream type 40 render mode 0.
+08/30/16 15:16:27 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000C98 thead id 60836 in channel 259.
+08/30/16 15:16:27 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 259 set display mode 0.
+08/30/16 15:16:27 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 259 Set deinterlace mode 2.
+08/30/16 15:16:27 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 259 Set field mode 0.
+08/30/16 15:16:27 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:27 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:27 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:28 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 7 in  Channel 260
+08/30/16 15:16:28 [CHN] [TRACE] Init: Created decoder channel 260 successfully,the timerInterval:10
+08/30/16 15:16:28 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 260 initialized, stream type 40 render mode 0.
+08/30/16 15:16:28 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000D44 thead id 2260 in channel 260.
+08/30/16 15:16:28 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 260 set display mode 0.
+08/30/16 15:16:28 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 260 Set deinterlace mode 2.
+08/30/16 15:16:28 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 260 Set field mode 0.
+08/30/16 15:16:28 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:28 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:28 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:30 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 8 in  Channel 261
+08/30/16 15:16:30 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:16:30 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:16:30 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000DD8 thead id 58620 in channel 261.
+08/30/16 15:16:30 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:16:30 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:16:30 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:16:30 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:16:30 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:16:30 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:16:32 [QUE] [ERROR] WriteQueue: BufItem[260] cannot be written
+08/30/16 15:16:33 [QUE] [ERROR] WriteQueue: BufItem[258] cannot be written
+08/30/16 15:16:33 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+08/30/16 15:16:45 [QUE] [ERROR] WriteQueue: BufItem[261] cannot be written
+08/30/16 15:16:50 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/30/16 15:18:32 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000DD8.
+08/30/16 15:18:32 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:18:32 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:18:34 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 9 in  Channel 261
+08/30/16 15:18:34 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:18:34 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:18:34 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000DE8 thead id 59528 in channel 261.
+08/30/16 15:18:34 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:18:34 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:18:34 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:18:34 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:18:34 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:18:34 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:26:15 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+08/30/16 15:26:26 [QUE] [ERROR] WriteQueue: BufItem[258] cannot be written
+08/30/16 15:26:29 [QUE] [TRACE] WriteQueue: BufItem[260] is FULL! now I-frame synchronizing
+08/30/16 15:26:30 [QUE] [TRACE] WriteQueue: BufItem[261] is FULL! now I-frame synchronizing
+08/30/16 15:28:44 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000DE8.
+08/30/16 15:28:45 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:28:45 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:28:47 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 10 in  Channel 261
+08/30/16 15:28:47 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:28:47 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:28:47 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:28:47 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000D7C thead id 57276 in channel 261.
+08/30/16 15:28:47 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:28:47 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:28:47 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:28:47 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:28:47 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:29:05 [QUE] [ERROR] WriteQueue: BufItem[259] cannot be written
+08/30/16 15:30:07 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000D7C.
+08/30/16 15:30:07 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:30:07 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:30:09 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 11 in  Channel 261
+08/30/16 15:30:09 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:30:09 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:30:09 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000E00 thead id 59968 in channel 261.
+08/30/16 15:30:09 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:30:09 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:30:09 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:30:09 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:30:09 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:30:09 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:30:19 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000E00.
+08/30/16 15:30:19 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:30:19 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:30:21 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 12 in  Channel 261
+08/30/16 15:30:21 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:30:21 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:30:21 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000DB4 thead id 49808 in channel 261.
+08/30/16 15:30:21 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:30:21 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:30:21 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:30:21 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:30:21 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:30:21 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:30:31 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000DB4.
+08/30/16 15:30:31 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:30:31 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:30:33 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 13 in  Channel 261
+08/30/16 15:30:33 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:30:33 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:30:33 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000DFC thead id 60156 in channel 261.
+08/30/16 15:30:33 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:30:33 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:30:33 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:30:33 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:30:33 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:30:33 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:30:43 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000DFC.
+08/30/16 15:30:43 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:30:43 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:30:44 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 14 in  Channel 261
+08/30/16 15:30:44 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:30:44 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:30:44 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000DB8 thead id 58820 in channel 261.
+08/30/16 15:30:44 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:30:44 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:30:44 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:30:44 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:30:44 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:30:44 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:30:55 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000DB8.
+08/30/16 15:30:56 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:30:56 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:30:57 [CHN] [TRACE] CreateDisTimer: Thread 61180 created Media Timer ID 15 in  Channel 261
+08/30/16 15:30:57 [CHN] [TRACE] Init: Created decoder channel 261 successfully,the timerInterval:10
+08/30/16 15:30:57 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 261 initialized, stream type 40 render mode 0.
+08/30/16 15:30:57 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 61180 created decoder handle 00000D80 thead id 60952 in channel 261.
+08/30/16 15:30:57 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 261 set display mode 0.
+08/30/16 15:30:57 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 261 Set deinterlace mode 2.
+08/30/16 15:30:57 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 261 Set field mode 0.
+08/30/16 15:30:57 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+08/30/16 15:30:57 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+08/30/16 15:30:57 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+08/30/16 15:36:15 [QUE] [TRACE] WriteQueue: BufItem[256] is FULL! now I-frame synchronizing
+08/30/16 15:36:26 [QUE] [ERROR] WriteQueue: BufItem[258] cannot be written
+08/30/16 15:36:29 [QUE] [ERROR] WriteQueue: BufItem[260] cannot be written
+08/30/16 15:36:30 [QUE] [ERROR] WriteQueue: BufItem[261] cannot be written
+08/30/16 15:37:19 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 000001F0.
+08/30/16 15:37:19 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+08/30/16 15:37:19 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+08/30/16 15:37:20 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 257 thread handle 00000B70.
+08/30/16 15:37:20 [CHN] [TRACE] Release: Release decoder channel 257 successfully 
+08/30/16 15:37:20 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 257.
+08/30/16 15:37:21 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 258 thread handle 00000C10.
+08/30/16 15:37:21 [CHN] [TRACE] Release: Release decoder channel 258 successfully 
+08/30/16 15:37:21 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 258.
+08/30/16 15:37:22 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 259 thread handle 00000C98.
+08/30/16 15:37:22 [CHN] [TRACE] Release: Release decoder channel 259 successfully 
+08/30/16 15:37:22 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 259.
+08/30/16 15:37:22 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 260 thread handle 00000D44.
+08/30/16 15:37:22 [CHN] [TRACE] Release: Release decoder channel 260 successfully 
+08/30/16 15:37:22 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 260.
+08/30/16 15:37:22 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 261 thread handle 00000D80.
+08/30/16 15:37:22 [CHN] [TRACE] Release: Release decoder channel 261 successfully 
+08/30/16 15:37:22 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 261.
+08/30/16 15:37:23 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+08/30/16 15:37:23 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 2720
+09/07/16 09:57:40 [R_T] [TRACE] DSP_RT_InitGlobal: Realtime global initialize.............................
+09/07/16 09:57:40 [R_T] [TRACE] DSP_RT_InitGlobal: load Scale failed, continue.
+09/07/16 09:57:40 [OSTIME] [TRACE] OSTIME_TimeStart: Have create an pstTimerEntry thread for pstTimerEntry running! The thread ID 3204, The handle of timer heap is 230817792
+09/07/16 09:57:40 [R_T] [ERROR] DSP_RT_InitGlobal: Fail to open Audio device. 
+09/07/16 09:57:40 [R_T] [TRACE] DSP_SetCallBackFunc: Set callback function 0BE7D5F0.
+09/07/16 09:57:40 [CHN] [TRACE] CreateDisTimer: Thread 59472 created Media Timer ID 1 in  Channel 256
+09/07/16 09:57:40 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+09/07/16 09:57:40 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+09/07/16 09:57:40 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 59472 created decoder handle 00000CC4 thead id 60380 in channel 256.
+09/07/16 09:57:40 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+09/07/16 09:57:40 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+09/07/16 09:57:40 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+09/07/16 09:57:40 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+09/07/16 09:57:40 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+09/07/16 09:57:40 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+09/07/16 10:30:20 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000CC4.
+09/07/16 10:30:20 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+09/07/16 10:30:20 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+09/07/16 10:30:21 [CHN] [TRACE] CreateDisTimer: Thread 59472 created Media Timer ID 2 in  Channel 256
+09/07/16 10:30:21 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+09/07/16 10:30:21 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+09/07/16 10:30:21 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 59472 created decoder handle 00000CE0 thead id 55328 in channel 256.
+09/07/16 10:30:21 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+09/07/16 10:30:21 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+09/07/16 10:30:21 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+09/07/16 10:30:21 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+09/07/16 10:30:21 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+09/07/16 10:30:21 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+09/07/16 11:29:41 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000CE0.
+09/07/16 11:29:41 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+09/07/16 11:29:41 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+09/07/16 11:29:42 [CHN] [TRACE] CreateDisTimer: Thread 59472 created Media Timer ID 3 in  Channel 256
+09/07/16 11:29:42 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+09/07/16 11:29:42 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+09/07/16 11:29:42 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 59472 created decoder handle 00000C64 thead id 56884 in channel 256.
+09/07/16 11:29:42 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+09/07/16 11:29:42 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+09/07/16 11:29:42 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+09/07/16 11:29:42 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+09/07/16 11:29:42 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+09/07/16 11:29:42 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+09/07/16 11:29:44 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000C64.
+09/07/16 11:29:44 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+09/07/16 11:29:44 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+09/07/16 11:29:45 [CHN] [TRACE] CreateDisTimer: Thread 59472 created Media Timer ID 4 in  Channel 256
+09/07/16 11:29:45 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+09/07/16 11:29:45 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+09/07/16 11:29:45 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 59472 created decoder handle 00000C08 thead id 58360 in channel 256.
+09/07/16 11:29:45 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+09/07/16 11:29:45 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+09/07/16 11:29:45 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+09/07/16 11:29:45 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+09/07/16 11:29:45 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+09/07/16 11:29:45 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+09/07/16 11:29:46 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000C08.
+09/07/16 11:29:46 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+09/07/16 11:29:46 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+09/07/16 11:29:47 [CHN] [TRACE] CreateDisTimer: Thread 59472 created Media Timer ID 5 in  Channel 256
+09/07/16 11:29:47 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+09/07/16 11:29:47 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+09/07/16 11:29:47 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 59472 created decoder handle 00000CBC thead id 51276 in channel 256.
+09/07/16 11:29:47 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+09/07/16 11:29:47 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+09/07/16 11:29:47 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+09/07/16 11:29:47 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+09/07/16 11:29:47 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+09/07/16 11:29:47 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+09/07/16 14:20:32 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+09/07/16 15:03:08 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+09/07/16 15:16:14 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+09/07/16 16:26:14 [QUE] [ERROR] WriteQueue: BufItem[256] cannot be written
+09/07/16 17:03:11 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00000CBC.
+09/07/16 17:03:11 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+09/07/16 17:03:11 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+09/11/16 14:29:52 [CHN] [TRACE] CreateDisTimer: Thread 59472 created Media Timer ID 6 in  Channel 256
+09/11/16 14:29:52 [CHN] [TRACE] Init: Created decoder channel 256 successfully,the timerInterval:10
+09/11/16 14:29:52 [R_T] [TRACE] DSP_InitRealTimeStream: Channel 256 initialized, stream type 40 render mode 0.
+09/11/16 14:29:52 [R_T] [TRACE] DSP_InitRealTimeStream: Thread 59472 created decoder handle 00001708 thead id 60104 in channel 256.
+09/11/16 14:29:52 [R_T] [TRACE] DSP_SetDisplayMode: ChannelID 256 set display mode 0.
+09/11/16 14:29:52 [R_T] [TRACE] DSP_SetDeinterlaceMode: Channel 256 Set deinterlace mode 2.
+09/11/16 14:29:52 [R_T] [TRACE] DSP_SetTopFieldDecOnly: Channel 256 Set field mode 0.
+09/11/16 14:29:52 [R_T] [TRACE] DSP_SetDecoderMode: check gpu 0
+09/11/16 14:29:52 [R_T] [ERROR] DSP_SetTransDecodeParam: if start trans is 1. 
+09/11/16 14:29:52 [R_T] [TRACE] DecodeThreadFunc: Create Decoder thread 
+09/11/16 14:30:00 [R_T] [TRACE] DSP_StopRealTimeStream: Releasing channel 256 thread handle 00001708.
+09/11/16 14:30:00 [CHN] [TRACE] Release: Release decoder channel 256 successfully 
+09/11/16 14:30:00 [R_T] [TRACE] DSP_StopRealTimeStream: Success to release decoder thread and making mute of channel 256.
+09/12/16 13:52:11 [R_T] [TRACE] DSP_RT_ReleaseGlobal: Realtime global release..............................
+09/12/16 13:52:11 [OSTIME] [TRACE] OSTIME_TimeStop: Have stop an pstTimerEntry thread for pstTimerEntry running! The thread ID 3204

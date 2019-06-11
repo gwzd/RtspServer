@@ -1,0 +1,32 @@
+2016-07-01 09:18:37.762 main: IMFRcvBufferLength = 131072.
+2016-07-01 09:18:37.762 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2016-07-01 09:18:37.762 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2016-07-01 09:18:37.762 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2016-07-01 09:18:37.762 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2016-07-01 09:18:37.762 CImfConnection::connect begin to connect. OppAddr: 172.20.69.115 OppPortNumber: 8800 PipeType: 0
+2016-07-01 09:18:37.762 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2016-07-01 09:18:37.762 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2016-07-01 13:03:15.049 main: IMFRcvBufferLength = 131072.
+2016-07-01 13:03:15.049 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2016-07-01 13:03:15.059 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2016-07-01 13:03:15.059 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2016-07-01 13:03:15.059 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2016-07-01 13:03:15.049 CImfConnection::connect begin to connect. OppAddr: 172.20.69.114 OppPortNumber: 8800 PipeType: 0
+2016-07-01 13:03:15.049 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2016-07-01 13:03:15.059 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2016-07-25 16:17:56.126 main: IMFRcvBufferLength = 131072.
+2016-07-25 16:17:56.126 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2016-07-25 16:17:56.126 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2016-07-25 16:17:56.126 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2016-07-25 16:17:56.126 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2016-07-25 16:17:56.126 CImfConnection::connect begin to connect. OppAddr: 172.20.69.114 OppPortNumber: 8800 PipeType: 0
+2016-07-25 16:17:56.126 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2016-07-25 16:17:56.126 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2016-07-25 16:32:03.548 main: IMFRcvBufferLength = 131072.
+2016-07-25 16:32:03.548 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2016-07-25 16:32:03.562 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2016-07-25 16:32:03.562 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2016-07-25 16:32:03.562 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2016-07-25 16:32:03.549 CImfConnection::connect begin to connect. OppAddr: 172.20.69.114 OppPortNumber: 8800 PipeType: 0
+2016-07-25 16:32:03.559 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2016-07-25 16:32:03.563 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1

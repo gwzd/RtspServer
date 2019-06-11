@@ -1,0 +1,94 @@
+﻿生成启动时间为 2017/12/15 15:42:11。
+     1>项目“F:\vs2010Project\bjvideo\Unicode\HKDevice\HKDevice\HKDevice.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\HKDevice.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\vs2010Setup\VC\bin\CL.exe /c /I..\..\Common /I..\..\HKSDK /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D DFJK_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\HKDevice.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PlugInsExp.cpp
+         PlugInsExp.cpp
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(157): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(160): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(178): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(196): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(214): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(226): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(601): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(306) : 参见“wcsncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(623): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(624): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(626): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(772): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(774): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(775): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(1938): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(1939): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(1940): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(1969): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(2170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(2425): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(2588): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(2767): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(3003): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(3894): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(3898): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(3900): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\vs2010project\bjvideo\unicode\hkdevice\hkdevice\pluginsexp.cpp(3908): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010setup\vc\include\string.h(188) : 参见“strncpy”的声明
+       ResourceCompile:
+         所有输出均为最新。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\HKDevice.dll) 与 Linker 的 OutputFile 属性值(F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\PlugInMain.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(HKDevice) 与 Linker 的 OutputFile 属性值(PlugInMain)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         d:\vs2010Setup\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\\PlugInMain.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\HKSDK /DEF:".\HKDevice.def" /MANIFEST:NO /DEBUG /PDB:"F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\\PlugInMain.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\HKDevice.lib" /MACHINE:X86 /DLL Debug\HKDevice.res
+         Debug\ComDev.obj
+         Debug\Global.obj
+         Debug\PlugIns.obj
+         Debug\PlugInsExp.obj
+         Debug\stdafx.obj
+         LINK : 没有找到 F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\\PlugInMain.dll 或上一个增量链接没有生成它；正在执行完全链接
+            正在创建库 F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\HKDevice.lib 和对象 F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\HKDevice.exp
+         HKDevice.vcxproj -> F:\vs2010Project\bjvideo\Unicode\HKDevice\Debug\HKDevice.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HKDevice.unsuccessfulbuild”。
+         正在对“Debug\HKDevice.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\vs2010Project\bjvideo\Unicode\HKDevice\HKDevice\HKDevice.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.44

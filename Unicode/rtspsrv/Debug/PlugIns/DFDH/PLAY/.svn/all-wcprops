@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY
+END
+MP3Decoder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/MP3Decoder.dll
+END
+dllmpeg4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/dllmpeg4.dll
+END
+AACDecoder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/AACDecoder.dll
+END
+AmrDll.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/AmrDll.dll
+END
+DllDeinterlace.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/DllDeinterlace.dll
+END
+dllh264.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/dllh264.dll
+END
+dhplay.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/dhplay.dll
+END
+jpegdec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/jpegdec.dll
+END
+PlugInMain.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/PlugInMain.dll
+END
+player264demo.exe
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/PLAY/player264demo.exe
+END

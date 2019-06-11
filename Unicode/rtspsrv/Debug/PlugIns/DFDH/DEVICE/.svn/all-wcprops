@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE
+END
+dhdvr.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dhdvr.dll
+END
+dllmpeg4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dllmpeg4.dll
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/config.ini
+END
+AACDecoder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/AACDecoder.dll
+END
+libeay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/libeay32.dll
+END
+DllDeinterlace.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/DllDeinterlace.dll
+END
+AmrDll.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/AmrDll.dll
+END
+langchn.ini
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/langchn.ini
+END
+dllh264.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dllh264.dll
+END
+dhplay.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dhplay.dll
+END
+dhconfigsdk.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dhconfigsdk.dll
+END
+MP3Decoder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/MP3Decoder.dll
+END
+DHRemCfgWnd.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/DHRemCfgWnd.dll
+END
+DhDecode.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/DhDecode.dll
+END
+jpegdec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/jpegdec.dll
+END
+dhassistant.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dhassistant.h
+END
+PlugInMain.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/PlugInMain.dll
+END
+dhnetsdk.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DF1500E/!svn/ver/244/trunk/src/web/WebComSetup/PlugIns/DFDH/DEVICE/dhnetsdk.dll
+END
